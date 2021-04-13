@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I am Mrunal-13</h1>
-<h3 align="center">I am Student at dr. DY Patil institute of engineering and technology,pune.As a student of Computer branch ,I am keenly interested in coding and python is my first language with certified course and practice. A flexible and excellent learner, focused, gaining skills, punctual, and hardworking.</h3>
+<h3 align="center">I am Student at dr. DY Patil institute of engineering and technology,pune.As a student of Computer branch ,I am keenly interested in coding ,competitive programming competitions , olympics like icpc and python is my first language with certified course and practice. A flexible and excellent learner, focused, gaining skills, punctual, and hardworking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunal-13&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal-13" /> </p>
 
