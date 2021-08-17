@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunal-13&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal-13" /> </p>
 
-- 🔭 I’m currently working on **Tic Tac Toe in python**
+- 🔭 I’m currently working on **authentication and security**
 
 - 🌱 I’m currently learning **Data structures and Algorithms,c++(SE Stuent at DYP)**
 
